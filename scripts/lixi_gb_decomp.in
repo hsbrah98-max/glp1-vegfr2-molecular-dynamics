@@ -1,0 +1,20 @@
+&general
+sys_name             = "lixi_GB",
+startframe           = 8001,
+endframe             = 10000,
+interval             = 10,
+ie_segment           = 50, 
+temperature          = 298,
+verbose              = 2,
+keep_files           = 1,
+/
+
+&gb
+igb=2, saltcon=0.150,
+/
+
+&decomp
+idecomp              = 2,
+dec_verbose          = 3,
+print_res            = "within 6",
+/
