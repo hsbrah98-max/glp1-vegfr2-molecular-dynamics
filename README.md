@@ -1,6 +1,8 @@
 # GLP-1RA & VEGFR2 100ns Molecular Dynamics & MM-PBSA Trajectory Analysis
 
-**Author:** Harman Brah, MD
+**Authors:** Natasha Prabhu and Harman Brah, MD (Brah Lab, ASDRP)
+
+Original project repository: [natashaprabhu/GLPs_WetAMD](https://github.com/natashaprabhu/GLPs_WetAMD)
 
 Complete 100-nanosecond all-atom GROMACS molecular dynamics simulation trajectory metrics, AMBER gmx_MMPBSA binding free energy decomposition scripts, and PyMOL 3D structural models evaluating GLP-1 receptor agonists (Lixisenatide, Tirzepatide, Taspoglutide, Efpeglenatide) against Vascular Endothelial Growth Factor Receptor 2 (VEGFR2).
 
